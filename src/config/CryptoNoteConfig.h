@@ -408,5 +408,6 @@ namespace CryptoNote
 
     const char *const SEED_NODES[] = {
         "ru1.frp.cool:15147", // fuju
+        "2.56.240.191:15147"  //fuju
     };
 } // namespace CryptoNote
